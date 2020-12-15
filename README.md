@@ -1,1 +1,1 @@
-# social-net
+# social network interface
